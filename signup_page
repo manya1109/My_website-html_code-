@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+		<meta charset="utf-8">
+	<title>Walkie talkie</title>
+</head>
+    <body  style="background-color:greenyellow;">
+    	<table>
+<table border="1">
+	<thead>
+		<tr>
+			<th style="background-color:orange;">Logo</th>
+			<th style="background-color:orange;">Login</th>
+			<th style="background-color:orange;">Walkie Talkie</th>
+			<th style="background-color:orange;"><a href="file:///C:/Users/manya/Desktop/first_page_of_website.html">signup</a></th>
+			<th style="background-color:orange;"><a href="file:///C:/Users/manya/Desktop/about.html">about</a></th>
+		</tr>
+	</thead>
+	</table>
+          
+           <hr>
+<form>
+	<label>Enter Your Email</label>
+	<br>
+		<input type="Email" name="user_email"placeholder="Enter Email"style="background-color:skyblue;">
+		<br>
+		<br>
+		<label>Enter Your Password</label>
+		<br>
+		
+		<input type="password" name="user_password"placeholder="Enter Password"style="background-color:skyblue";>
+		<br>
+		<br>
+		<input type="submit" name="Login"  style="background-color:red;">
+</form>
+     </body>
+</html>
